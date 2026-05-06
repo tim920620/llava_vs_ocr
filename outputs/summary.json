@@ -1,0 +1,17 @@
+{
+  "num_samples": 300,
+  "baseline": {
+    "accuracy": 0.31,
+    "exact_match": 0.31,
+    "f1": 0.3849232804232804,
+    "anls": 0.35415043290043285,
+    "weighted_score": 0.6862256493506493
+  },
+  "ocr_assisted": {
+    "accuracy": 0.38,
+    "exact_match": 0.38,
+    "f1": 0.45995370370370364,
+    "anls": 0.43786712361712365,
+    "weighted_score": 0.8468006854256853
+  }
+}

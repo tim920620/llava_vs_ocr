@@ -1,0 +1,9 @@
+transformers
+accelerate
+pillow
+tqdm
+numpy
+paddleocr
+sentencepiece
+protobuf
+easyocr
